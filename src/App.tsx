@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import InputForm from './InputForm';
+import InputForm from './components/InputForm/InputForm';
 
 function App() {
 
@@ -15,7 +15,7 @@ function App() {
         <div className='bg-white p-5 rounded-2'>
           <h4 className='text-uppercase text-center shadow p-3'>Text Here</h4>
           <div>
-           <InputForm/>
+            <InputForm />
           </div>
           <div>
 
