@@ -2,10 +2,7 @@ import React from 'react';
 import { Toaster } from 'react-hot-toast';
 import './App.css'
 import InputForm from './components/InputForm/InputForm';
-
 function App() {
-
-
   return (
     <>
       <Toaster
